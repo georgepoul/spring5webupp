@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dd0734d-7823-4421-8dfa-d14e6506d6a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/demo/bootstrap/BootStrapData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/demo/domain/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/demo/repositories/AuthorRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/demo/repositories/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/demo/repositories/PublisherRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/demo/domain/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/demo/domain/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/demo/domain/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/demo/domain/Book.java" afterDir="false" />
-    </list>
+    <list default="true" id="9dd0734d-7823-4421-8dfa-d14e6506d6a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
